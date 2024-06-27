@@ -219,6 +219,7 @@ public:
             cout << "\t\t ** Made By Muhammad Talha **\n";
             cout << "\t\t ** Coded In C++ [Version 23] **\n";
             cout << "\t\t ** Source Code Available On GitHub **\n";
+            cout << "\t\t ** GUI Version Coming Soon ! **\n";
             cout << "\t\t\t ** CREDITS **\n\n\n";
             paintText::default_color();
         };
