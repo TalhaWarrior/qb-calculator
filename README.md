@@ -30,7 +30,7 @@ QBCalculator is a QueryBased Calculator built with C++23, capable of performing 
       
 ## How to Run
 
-### To run the QBCalculator, compile the source code (`main.cpp`) using a C++23 compiler and execute the binary.
+### To run the QBCalculator, compile the source code (`main.cpp`) using a C++ compiler like GCC Or CLANG {Latest Version}  and execute the binary.
 ####                   OR
 ### Download The Compiled Executable From Release Menu.
 
