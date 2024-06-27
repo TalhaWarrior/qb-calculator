@@ -20,7 +20,7 @@ QBCalculator is a QueryBased Calculator built with C++23, capable of performing 
 4. **Exponential and Root Operations:**
    - Base raised to power of any number (^)
    - nth Root calculation
-5  ** Logarithmic Calculations
+5.  **Logarithmic Calculations**
    - Calculate Logarithm Of A Positive Real Number To Any Base
 
 ## Usage
