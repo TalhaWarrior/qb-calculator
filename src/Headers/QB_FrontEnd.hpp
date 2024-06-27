@@ -42,7 +42,7 @@ public:
         system("cls");
         QB_Banners::calculator_Banner();
         paintText::green();
-        cout << "\n**** Welcome to Query Based Calculator ****\n";
+        cout << "\n**** Welcome to Query Based Calculator (Command Line Interface) ****\n";
         cout << "\tWhere Queries Are Written To Fetch Calculations !\n\n";
         paintText::red();
         cout << "TIP: If You Are Using This Calculator For First Time Then Consider Using 'General Help' Menu !\n\n";
