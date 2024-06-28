@@ -41,7 +41,7 @@ QBCalculator is a QueryBased Calculator built with C++23, capable of performing 
 - Make Sure Make Is Installed On Your System If Not You Can Always Install It Using scoop.sh
 - Open Powershell or CMD and change the directory to directory containing soure code and paste this command
   ```makefile
-  make all`
+     make all
   ```
 - ### CMake
 -  You Can Also Build It With CMake Using The Included CMakeLists.txt
