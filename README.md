@@ -46,7 +46,7 @@ QBCalculator is a QueryBased Calculator built with C++23, capable of performing 
 - ### CMake
 -  You Can Also Build It With CMake Using The Included CMakeLists.txt
 
-## System Requirements *Software*
+## System Requirements *(Software)*
    **First Of All Make Sure That This Path Is Added To Path{Environment Variable -> System Variable}**
    *$Path_To_MinGW_Main_Directory$/bin*
 
